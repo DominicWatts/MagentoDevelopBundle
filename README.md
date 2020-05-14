@@ -28,7 +28,7 @@ https://github.com/justbetter/magento2-sentry
 
     "magefan/module-conflict-detector":"*"
     
-## Magefan Conflict Detector for Magento 2
+### Magefan Conflict Detector for Magento 2
 
 https://github.com/magefan/module-conflict-detector
 
