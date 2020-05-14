@@ -2,21 +2,23 @@
 
 Magento 2 Developer bundle composer meta package
 
+---
+
     "dominicwatts/clearstatic": "*"
     
 ## Magento 2 console script to clear static content
 
-https://github.com/DominicWatts/ClearStatic
-    
-    
-    
+https://github.com/DominicWatts/ClearStatic 
+   
+---
+   
     "dominicwatts/environmentcheck": "*"
     
 ## Magento 2 platform check CLI utility to check system / platform requirements
   
 https://github.com/DominicWatts/EnvironmentCheck  
     
-    
+---
     
     "justbetter/magento2-sentry": "*"
     
@@ -24,7 +26,7 @@ https://github.com/DominicWatts/EnvironmentCheck
 
 https://github.com/justbetter/magento2-sentry
 
-
+---
 
     "magepal/magento2-reindex":"*"
 
@@ -32,7 +34,7 @@ https://github.com/justbetter/magento2-sentry
 
 https://github.com/magepal/magento2-reindex
 
-
+---
 
     "mageplaza/module-smtp":"*"
     
@@ -40,7 +42,7 @@ https://github.com/magepal/magento2-reindex
 
 https://github.com/mageplaza/magento-2-smtp
 
-
+---
 
     "symfony/var-dumper": "*"
     
