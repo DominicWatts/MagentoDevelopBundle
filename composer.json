@@ -1,0 +1,13 @@
+{
+  "name": "dominicwatts/magentodevelopbundle",
+  "version": "1.0.0",
+  "require": {
+    "dominicwatts/clearstatic": "*",
+    "dominicwatts/environmentcheck": "*",
+    "justbetter/magento2-sentry": "*",
+    "magepal/magento2-reindex":"*",
+    "mageplaza/module-smtp":"*",
+    "magepsycho/magento2-easy-template-path-hints":"*",
+    "symfony/var-dumper": "*"
+  }
+}
