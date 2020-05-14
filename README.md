@@ -1,6 +1,6 @@
-## Magento Developer Bundle
+# Magento Developer Bundle
 
-Magento 2 Developer bundle composer meta package
+## Magento 2 Developer bundle composer meta package
 
 ---
 
