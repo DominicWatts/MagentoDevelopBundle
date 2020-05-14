@@ -2,8 +2,6 @@
 
 ## Magento 2 Developer bundle composer meta package
 
----
-
     "dominicwatts/clearstatic": "*"
     
 ### Magento 2 console script to clear static content
