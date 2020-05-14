@@ -26,6 +26,14 @@ https://github.com/justbetter/magento2-sentry
 
 ---
 
+    "magefan/module-conflict-detector":"*"
+    
+## Magefan Conflict Detector for Magento 2
+
+https://github.com/magefan/module-conflict-detector
+
+---
+
     "magepal/magento2-reindex":"*"
 
 ### Reindex your Magento2 store quickly and easily from backend/admin, instead of command line. 
