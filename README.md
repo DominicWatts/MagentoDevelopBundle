@@ -1,5 +1,7 @@
 # Magento Developer Bundle
 
+`composer require dominicwatts/magentodevelopbundle`
+
 ## Magento 2 Developer bundle composer meta package
 
     "dominicwatts/clearstatic": "*"
