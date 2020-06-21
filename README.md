@@ -16,7 +16,15 @@ https://github.com/DominicWatts/ClearStatic
     
 ### Magento 2 platform check CLI utility to check system / platform requirements
   
-https://github.com/DominicWatts/EnvironmentCheck  
+https://github.com/DominicWatts/EnvironmentCheck
+
+---
+   
+    "dominicwatts/cachewarmer": "*"
+    
+### Magento 2 cache warmer / link checker / siege tester 
+  
+https://github.com/DominicWatts/CacheWarmer
     
 ---
     
