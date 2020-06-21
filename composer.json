@@ -1,9 +1,10 @@
 {
   "name": "dominicwatts/magentodevelopbundle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "require": {
     "dominicwatts/clearstatic": "*",
     "dominicwatts/environmentcheck": "*",
+    "dominicwatts/cachewarmer": "*",
     "justbetter/magento2-sentry": "*",
     "magefan/module-conflict-detector": "*",
     "magepal/magento2-reindex":"*",
