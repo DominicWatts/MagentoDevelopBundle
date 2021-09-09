@@ -1,6 +1,6 @@
 {
   "name": "dominicwatts/magentodevelopbundle",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "require": {
     "dominicwatts/clearstatic": "*",
     "dominicwatts/environmentcheck": "*",
@@ -9,6 +9,7 @@
     "magefan/module-conflict-detector": "*",
     "magepal/magento2-reindex":"*",
     "mageplaza/module-smtp":"*",
-    "symfony/var-dumper": "*"
+    "symfony/var-dumper": "*",
+    "dominicwatts/debugger": "*"
   }
 }
