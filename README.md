@@ -81,3 +81,13 @@ https://github.com/mageplaza/magento-2-smtp
 #### The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. It provides a better dump() function that you can use instead of var_dump()
 
 https://github.com/symfony/var-dumper
+
+---
+
+### Debugger
+
+    "dominicwatts/debugger": "*"
+    
+#### Simple debugger to debug routes and handles
+
+https://github.com/DominicWatts/Debugger
