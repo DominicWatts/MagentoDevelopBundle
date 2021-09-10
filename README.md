@@ -91,3 +91,13 @@ https://github.com/symfony/var-dumper
 #### Simple debugger to debug routes and handles
 
 https://github.com/DominicWatts/Debugger
+
+---
+
+### Debugger
+
+    "markshust/magento2-module-disabletwofactorauth": "*"
+    
+#### The DisableTwoFactorAuth module provides the ability to disable two-factor authentication. 
+
+https://github.com/markshust/magento2-module-disabletwofactorauth

@@ -1,6 +1,6 @@
 {
   "name": "dominicwatts/magentodevelopbundle",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "require": {
     "dominicwatts/clearstatic": "*",
     "dominicwatts/environmentcheck": "*",
@@ -10,6 +10,7 @@
     "magepal/magento2-reindex":"*",
     "mageplaza/module-smtp":"*",
     "symfony/var-dumper": "*",
-    "dominicwatts/debugger": "*"
+    "dominicwatts/debugger": "*",
+    "markshust/magento2-module-disabletwofactorauth": "*"
   }
 }
