@@ -94,10 +94,20 @@ https://github.com/DominicWatts/Debugger
 
 ---
 
-### Debugger
+### Disable Two FactorAuth
 
     "markshust/magento2-module-disabletwofactorauth": "*"
     
 #### The DisableTwoFactorAuth module provides the ability to disable two-factor authentication. 
 
 https://github.com/markshust/magento2-module-disabletwofactorauth
+
+---
+
+### MageSetup for Magento2 
+
+    "firegento/magesetup": "*"
+    
+#### MageSetup configures a shop for a national market. 
+
+https://github.com/firegento/firegento-magesetup2
