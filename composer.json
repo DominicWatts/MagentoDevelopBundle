@@ -11,6 +11,7 @@
     "mageplaza/module-smtp":"*",
     "symfony/var-dumper": "*",
     "dominicwatts/debugger": "*",
-    "markshust/magento2-module-disabletwofactorauth": "*"
+    "markshust/magento2-module-disabletwofactorauth": "*",
+    "firegento/magesetup2": "*"
   }
 }
